@@ -1,0 +1,140 @@
+Connecting to host 172.31.30.63, port 8001
+[  6] local 172.31.24.14 port 39416 connected to 172.31.30.63 port 8001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  6]   0.00-0.10   sec   384 KBytes  31.4 Mbits/sec    0   96.1 KBytes       
+[  6]   0.10-0.20   sec   384 KBytes  31.5 Mbits/sec    0    157 KBytes       
+[  6]   0.20-0.30   sec   384 KBytes  31.5 Mbits/sec    0    218 KBytes       
+[  6]   0.30-0.40   sec  0.00 Bytes  0.00 bits/sec    0    288 KBytes       
+[  6]   0.40-0.50   sec  1.50 MBytes   126 Mbits/sec    0    524 KBytes       
+[  6]   0.50-0.60   sec  1.12 MBytes  94.6 Mbits/sec    0    891 KBytes       
+[  6]   0.60-0.70   sec  1.38 MBytes   115 Mbits/sec    0   1.67 MBytes       
+[  6]   0.70-0.80   sec  1.25 MBytes   105 Mbits/sec    0   3.20 MBytes       
+[  6]   0.80-0.90   sec  0.00 Bytes  0.00 bits/sec    1   2.72 MBytes       
+[  6]   0.90-1.00   sec  4.00 MBytes   336 Mbits/sec    0   3.81 MBytes       
+[  6]   1.00-1.10   sec  1.38 MBytes   115 Mbits/sec    0   5.67 MBytes       
+[  6]   1.10-1.20   sec  2.75 MBytes   231 Mbits/sec    0   8.63 MBytes       
+[  6]   1.20-1.30   sec  2.75 MBytes   230 Mbits/sec    0   7.95 MBytes       
+[  6]   1.30-1.40   sec  2.75 MBytes   231 Mbits/sec    0   7.95 MBytes       
+[  6]   1.40-1.50   sec  1.38 MBytes   116 Mbits/sec    0   7.95 MBytes       
+[  6]   1.50-1.60   sec  2.62 MBytes   220 Mbits/sec    0   7.99 MBytes       
+[  6]   1.60-1.70   sec  2.75 MBytes   231 Mbits/sec    0   7.99 MBytes       
+[  6]   1.70-1.80   sec  2.75 MBytes   231 Mbits/sec    0   7.99 MBytes       
+[  6]   1.80-1.90   sec  2.75 MBytes   230 Mbits/sec    0   7.99 MBytes       
+[  6]   1.90-2.00   sec  2.75 MBytes   231 Mbits/sec    0   6.30 MBytes       
+[  6]   2.00-2.10   sec  2.62 MBytes   220 Mbits/sec    0   6.32 MBytes       
+[  6]   2.10-2.20   sec  2.75 MBytes   231 Mbits/sec    0   6.32 MBytes       
+[  6]   2.20-2.30   sec  2.75 MBytes   231 Mbits/sec    0   6.32 MBytes       
+[  6]   2.30-2.40   sec  2.62 MBytes   220 Mbits/sec    0   6.32 MBytes       
+[  6]   2.40-2.50   sec  1.38 MBytes   115 Mbits/sec    0   6.13 MBytes       
+[  6]   2.50-2.60   sec  2.62 MBytes   220 Mbits/sec    0   6.13 MBytes       
+[  6]   2.60-2.70   sec  2.75 MBytes   231 Mbits/sec    0   6.13 MBytes       
+[  6]   2.70-2.80   sec  2.62 MBytes   220 Mbits/sec    0   6.13 MBytes       
+[  6]   2.80-2.90   sec  2.62 MBytes   220 Mbits/sec    0   5.85 MBytes       
+[  6]   2.90-3.00   sec  2.75 MBytes   231 Mbits/sec    0   5.85 MBytes       
+[  6]   3.00-3.10   sec  2.62 MBytes   220 Mbits/sec    0   5.89 MBytes       
+[  6]   3.10-3.20   sec  2.62 MBytes   220 Mbits/sec    0   5.89 MBytes       
+[  6]   3.20-3.30   sec  2.75 MBytes   231 Mbits/sec    0   5.89 MBytes       
+[  6]   3.30-3.40   sec  2.62 MBytes   220 Mbits/sec    0   5.89 MBytes       
+[  6]   3.40-3.50   sec  2.62 MBytes   220 Mbits/sec    0   5.79 MBytes       
+[  6]   3.50-3.60   sec  2.75 MBytes   231 Mbits/sec    0   5.79 MBytes       
+[  6]   3.60-3.70   sec  2.62 MBytes   220 Mbits/sec    0   5.80 MBytes       
+[  6]   3.70-3.80   sec  2.62 MBytes   220 Mbits/sec    0   5.80 MBytes       
+[  6]   3.80-3.90   sec  1.38 MBytes   115 Mbits/sec    0   5.80 MBytes       
+[  6]   3.90-4.00   sec  2.62 MBytes   220 Mbits/sec    0   5.82 MBytes       
+[  6]   4.00-4.10   sec  2.75 MBytes   231 Mbits/sec    0   5.82 MBytes       
+[  6]   4.10-4.20   sec  2.62 MBytes   219 Mbits/sec    0   5.82 MBytes       
+[  6]   4.20-4.30   sec  3.00 MBytes   253 Mbits/sec    0   5.87 MBytes       
+[  6]   4.30-4.40   sec  1.38 MBytes   115 Mbits/sec    0   6.09 MBytes       
+[  6]   4.40-4.50   sec  2.75 MBytes   231 Mbits/sec    0   6.19 MBytes       
+[  6]   4.50-4.60   sec  1.75 MBytes   147 Mbits/sec    0   6.81 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  6]   0.00-4.60   sec   100 MBytes   182 Mbits/sec    1             sender
+[  6]   0.00-4.70   sec   100 MBytes   178 Mbits/sec                  receiver
+
+iperf Done.
+
+2024-12-10 04:00:22 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:22 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:22 RTT: 100.45ms RTTVar: 0.115ms CWND: 936 SSTHRESH: 370
+2024-12-10 04:00:22 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:22 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:22 RTT: 100.41ms RTTVar: 0.187ms CWND: 936 SSTHRESH: 370
+2024-12-10 04:00:22 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:22 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:22 RTT: 100.465ms RTTVar: 0.184ms CWND: 936 SSTHRESH: 370
+2024-12-10 04:00:22 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:22 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:22 RTT: 100.407ms RTTVar: 0.19ms CWND: 738 SSTHRESH: 370
+2024-12-10 04:00:22 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:22 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:22 RTT: 100.371ms RTTVar: 0.098ms CWND: 740 SSTHRESH: 370
+2024-12-10 04:00:22 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:22 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:22 RTT: 100.477ms RTTVar: 0.208ms CWND: 740 SSTHRESH: 370
+2024-12-10 04:00:22 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:22 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:22 RTT: 100.267ms RTTVar: 0.099ms CWND: 740 SSTHRESH: 370
+2024-12-10 04:00:22 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:22 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:22 RTT: 100.362ms RTTVar: 0.141ms CWND: 710 SSTHRESH: 370
+2024-12-10 04:00:23 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:23 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:23 RTT: 100.571ms RTTVar: 0.182ms CWND: 718 SSTHRESH: 370
+2024-12-10 04:00:23 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:23 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:23 RTT: 100.708ms RTTVar: 0.214ms CWND: 718 SSTHRESH: 370
+2024-12-10 04:00:23 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:23 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:23 RTT: 100.551ms RTTVar: 0.201ms CWND: 718 SSTHRESH: 370
+2024-12-10 04:00:23 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:23 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:23 RTT: 100.555ms RTTVar: 0.161ms CWND: 686 SSTHRESH: 370
+2024-12-10 04:00:23 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:23 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:23 RTT: 100.461ms RTTVar: 0.123ms CWND: 686 SSTHRESH: 370
+2024-12-10 04:00:23 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:23 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:23 RTT: 100.618ms RTTVar: 0.186ms CWND: 690 SSTHRESH: 370
+2024-12-10 04:00:23 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:23 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:23 RTT: 100.566ms RTTVar: 0.159ms CWND: 690 SSTHRESH: 370
+2024-12-10 04:00:23 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:23 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:23 RTT: 100.446ms RTTVar: 0.079ms CWND: 690 SSTHRESH: 370
+2024-12-10 04:00:23 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:23 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:23 RTT: 100.654ms RTTVar: 0.405ms CWND: 678 SSTHRESH: 370
+2024-12-10 04:00:24 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:24 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:24 RTT: 100.507ms RTTVar: 0.225ms CWND: 678 SSTHRESH: 370
+2024-12-10 04:00:24 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:24 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:24 RTT: 100.464ms RTTVar: 0.119ms CWND: 680 SSTHRESH: 370
+2024-12-10 04:00:24 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:24 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:24 RTT: 100.655ms RTTVar: 0.228ms CWND: 680 SSTHRESH: 370
+2024-12-10 04:00:24 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:24 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:24 RTT: 100.572ms RTTVar: 0.129ms CWND: 680 SSTHRESH: 370
+2024-12-10 04:00:24 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:24 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:24 RTT: 100.626ms RTTVar: 0.127ms CWND: 682 SSTHRESH: 370
+2024-12-10 04:00:24 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:24 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:24 RTT: 100.574ms RTTVar: 0.245ms CWND: 682 SSTHRESH: 370
+2024-12-10 04:00:24 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:24 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:24 RTT: 100.584ms RTTVar: 0.225ms CWND: 678 SSTHRESH: 370
+2024-12-10 04:00:24 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:24 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:24 RTT: 100.728ms RTTVar: 0.223ms CWND: 714 SSTHRESH: 370
+2024-12-10 04:00:25 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:25 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:25 RTT: 100.564ms RTTVar: 0.157ms CWND: 714 SSTHRESH: 370
+2024-12-10 04:00:25 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:25 RTT: 100.924ms RTTVar: 28.552ms CWND: 13 SSTHRESH: 56587
+2024-12-10 04:00:25 RTT: 100.446ms RTTVar: 0.213ms CWND: 798 SSTHRESH: 370
+2024-12-10 04:00:25 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 04:00:25 RTT: 100.982ms RTTVar: 21.53ms CWND: 14 SSTHRESH: 56587
+2024-12-10 04:00:25 RTT: 100.514ms RTTVar: 0.195ms CWND: 798 SSTHRESH: 370

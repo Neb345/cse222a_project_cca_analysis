@@ -1,0 +1,135 @@
+Connecting to host 172.31.30.63, port 8001
+[  6] local 172.31.24.14 port 35646 connected to 172.31.30.63 port 8001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  6]   0.00-0.10   sec   384 KBytes  31.3 Mbits/sec    0   96.1 KBytes       
+[  6]   0.10-0.20   sec   384 KBytes  31.5 Mbits/sec    0    157 KBytes       
+[  6]   0.20-0.30   sec   384 KBytes  31.5 Mbits/sec    0    210 KBytes       
+[  6]   0.30-0.40   sec  0.00 Bytes  0.00 bits/sec    0    262 KBytes       
+[  6]   0.40-0.50   sec  1.50 MBytes   126 Mbits/sec    0    507 KBytes       
+[  6]   0.50-0.60   sec  1.12 MBytes  94.4 Mbits/sec    0    839 KBytes       
+[  6]   0.60-0.70   sec  1.38 MBytes   115 Mbits/sec    0   1.56 MBytes       
+[  6]   0.70-0.80   sec  1.25 MBytes   105 Mbits/sec    0   3.03 MBytes       
+[  6]   0.80-0.90   sec  2.75 MBytes   231 Mbits/sec    0   5.85 MBytes       
+[  6]   0.90-1.00   sec  2.75 MBytes   231 Mbits/sec    0   8.76 MBytes       
+[  6]   1.00-1.10   sec  2.75 MBytes   231 Mbits/sec    0   8.82 MBytes       
+[  6]   1.10-1.20   sec  2.75 MBytes   231 Mbits/sec    0   8.82 MBytes       
+[  6]   1.20-1.30   sec  2.88 MBytes   241 Mbits/sec    0   8.82 MBytes       
+[  6]   1.30-1.40   sec  2.75 MBytes   231 Mbits/sec    0   8.82 MBytes       
+[  6]   1.40-1.50   sec  2.75 MBytes   231 Mbits/sec    0   8.82 MBytes       
+[  6]   1.50-1.60   sec  1.38 MBytes   115 Mbits/sec    0   8.82 MBytes       
+[  6]   1.60-1.70   sec  2.88 MBytes   241 Mbits/sec    0   8.82 MBytes       
+[  6]   1.70-1.80   sec  2.75 MBytes   231 Mbits/sec    0   8.82 MBytes       
+[  6]   1.80-1.90   sec  2.75 MBytes   231 Mbits/sec    0   8.82 MBytes       
+[  6]   1.90-2.00   sec  3.00 MBytes   252 Mbits/sec    0   8.82 MBytes       
+[  6]   2.00-2.10   sec  2.75 MBytes   231 Mbits/sec    0   8.82 MBytes       
+[  6]   2.10-2.20   sec  2.75 MBytes   231 Mbits/sec    0   8.82 MBytes       
+[  6]   2.20-2.30   sec  2.75 MBytes   231 Mbits/sec    0   8.82 MBytes       
+[  6]   2.30-2.40   sec  2.75 MBytes   231 Mbits/sec    0   6.90 MBytes       
+[  6]   2.40-2.50   sec  2.75 MBytes   230 Mbits/sec    0   6.90 MBytes       
+[  6]   2.50-2.60   sec  2.62 MBytes   221 Mbits/sec    0   6.90 MBytes       
+[  6]   2.60-2.70   sec  2.75 MBytes   231 Mbits/sec    0   6.90 MBytes       
+[  6]   2.70-2.80   sec  1.25 MBytes   105 Mbits/sec    0   6.90 MBytes       
+[  6]   2.80-2.90   sec  2.75 MBytes   231 Mbits/sec    0   6.91 MBytes       
+[  6]   2.90-3.00   sec  2.75 MBytes   231 Mbits/sec    0   6.08 MBytes       
+[  6]   3.00-3.10   sec  2.62 MBytes   220 Mbits/sec    0   6.25 MBytes       
+[  6]   3.10-3.20   sec  2.75 MBytes   231 Mbits/sec    0   6.25 MBytes       
+[  6]   3.20-3.30   sec  2.62 MBytes   220 Mbits/sec    0   6.25 MBytes       
+[  6]   3.30-3.40   sec  3.12 MBytes   262 Mbits/sec    0   6.38 MBytes       
+[  6]   3.40-3.50   sec  1.38 MBytes   115 Mbits/sec    0   6.47 MBytes       
+[  6]   3.50-3.60   sec  2.75 MBytes   231 Mbits/sec    0   6.65 MBytes       
+[  6]   3.60-3.70   sec  2.62 MBytes   220 Mbits/sec    0   6.73 MBytes       
+[  6]   3.70-3.80   sec  2.75 MBytes   231 Mbits/sec    0   6.73 MBytes       
+[  6]   3.80-3.90   sec  2.62 MBytes   220 Mbits/sec    0   6.73 MBytes       
+[  6]   3.90-4.00   sec  2.75 MBytes   230 Mbits/sec    0   6.73 MBytes       
+[  6]   4.00-4.10   sec  2.75 MBytes   231 Mbits/sec    0   6.62 MBytes       
+[  6]   4.10-4.20   sec  2.75 MBytes   231 Mbits/sec    0   6.62 MBytes       
+[  6]   4.20-4.30   sec  2.62 MBytes   220 Mbits/sec    0   6.62 MBytes       
+[  6]   4.30-4.40   sec  1.50 MBytes   126 Mbits/sec    0   6.62 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  6]   0.00-4.41   sec   100 MBytes   190 Mbits/sec    0             sender
+[  6]   0.00-4.51   sec   100 MBytes   186 Mbits/sec                  receiver
+
+iperf Done.
+
+2024-12-10 03:56:02 RTT: 100.377ms RTTVar: 0.122ms CWND: 1034 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:02 RTT: 100.599ms RTTVar: 0.198ms CWND: 1034 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:02 RTT: 100.61ms RTTVar: 0.54ms CWND: 1034 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:02 RTT: 100.566ms RTTVar: 0.386ms CWND: 1034 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:02 RTT: 100.412ms RTTVar: 0.222ms CWND: 1034 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:02 RTT: 100.575ms RTTVar: 0.184ms CWND: 1034 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:02 RTT: 100.448ms RTTVar: 0.175ms CWND: 1034 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:02 RTT: 100.48ms RTTVar: 0.224ms CWND: 1034 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:02 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:03 RTT: 100.548ms RTTVar: 0.361ms CWND: 808 SSTHRESH: 346
+2024-12-10 03:56:03 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:03 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:03 RTT: 100.511ms RTTVar: 0.267ms CWND: 808 SSTHRESH: 346
+2024-12-10 03:56:03 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:03 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:03 RTT: 100.625ms RTTVar: 0.376ms CWND: 808 SSTHRESH: 346
+2024-12-10 03:56:03 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:03 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:03 RTT: 100.415ms RTTVar: 0.213ms CWND: 808 SSTHRESH: 346
+2024-12-10 03:56:03 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:03 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:03 RTT: 101.122ms RTTVar: 1.144ms CWND: 810 SSTHRESH: 346
+2024-12-10 03:56:03 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:03 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:03 RTT: 100.599ms RTTVar: 0.218ms CWND: 712 SSTHRESH: 346
+2024-12-10 03:56:03 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:03 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:03 RTT: 100.505ms RTTVar: 0.213ms CWND: 732 SSTHRESH: 346
+2024-12-10 03:56:03 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:03 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:03 RTT: 100.401ms RTTVar: 0.137ms CWND: 732 SSTHRESH: 346
+2024-12-10 03:56:03 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:03 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:03 RTT: 100.5ms RTTVar: 0.363ms CWND: 732 SSTHRESH: 346
+2024-12-10 03:56:03 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:03 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:04 RTT: 100.564ms RTTVar: 0.346ms CWND: 758 SSTHRESH: 346
+2024-12-10 03:56:04 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:04 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:04 RTT: 100.32ms RTTVar: 0.12ms CWND: 779 SSTHRESH: 346
+2024-12-10 03:56:04 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:04 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:04 RTT: 100.447ms RTTVar: 0.246ms CWND: 788 SSTHRESH: 346
+2024-12-10 03:56:04 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:04 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:04 RTT: 100.528ms RTTVar: 0.139ms CWND: 788 SSTHRESH: 346
+2024-12-10 03:56:04 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:04 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:04 RTT: 100.435ms RTTVar: 0.187ms CWND: 788 SSTHRESH: 346
+2024-12-10 03:56:04 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:04 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:04 RTT: 100.513ms RTTVar: 0.173ms CWND: 776 SSTHRESH: 346
+2024-12-10 03:56:04 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:04 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:04 RTT: 100.388ms RTTVar: 0.193ms CWND: 776 SSTHRESH: 346
+2024-12-10 03:56:04 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:04 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:04 RTT: 100.6ms RTTVar: 0.184ms CWND: 776 SSTHRESH: 346
+2024-12-10 03:56:04 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:04 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:04 RTT: 100.317ms RTTVar: 0.125ms CWND: 776 SSTHRESH: 346
+2024-12-10 03:56:04 RTT: 177.619ms RTTVar: 97.276ms CWND: 13 SSTHRESH: 56587
+2024-12-10 03:56:04 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
+2024-12-10 03:56:05 RTT: 100.543ms RTTVar: 0.19ms CWND: 776 SSTHRESH: 346
+2024-12-10 03:56:05 RTT: 167.989ms RTTVar: 92.217ms CWND: 14 SSTHRESH: 56587
+2024-12-10 03:56:05 RTT: 121.261ms RTTVar: 2.51ms CWND: 44 SSTHRESH: 44
